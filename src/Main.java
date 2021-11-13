@@ -9,6 +9,6 @@ public class Main {
         }
 
         //testing further
-        
+        System.out.println("wow thats crazy");
     }
 }
